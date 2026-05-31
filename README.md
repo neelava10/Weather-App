@@ -1,0 +1,1 @@
+A responsive weather application built with HTML, CSS, and JavaScript. It fetches real-time weather data from a weather API and displays temperature, humidity, wind speed, and weather conditions for any city. Features a clean UI, dynamic updates, error handling, and mobile-friendly design for an enhanced user experience.
